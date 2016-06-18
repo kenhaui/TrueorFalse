@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<QuizCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Quizes>
+		<Quiz question="Việt Nam có 7 di sản thiên nhiên thế giới ?" fact="8">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Một con mèo bắt một con chuột trong một phút thì ba con mèo bắt ba con chuột trong ba phút ?" fact="1 phút">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Cá sấu là loài lưỡng cư ?">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Quang Trung đã đại phá quân Nguyên năm 1789 ?" fact="Quân Thanh">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Phố cổ Hội An thuộc Quảng Nam ?">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Ngô Bảo Châu đã đạt giải Nobel toán học ?" fact="Không có giải Nobel toán học">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Việt Nam có 64 tỉnh thành ?" fact="63">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Con người đã đặt chân lên mặt trăng ?">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Tây Ban Nha vô địch WorldCup 2010 ?">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Thomas Edison là người phát minh ra điện thoại ?" fact="Alexander Graham Bell">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Số bé nhất vừa chia hết cho 3 vừa chia hết cho 9 là 18 ?" fact="9">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Hệ mặt trời có tất cả 8 hành tinh ?" fact="Trước kia là 9 nhưng đã loại mất sao diêm vương">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="&quot;Tôi muốn tắt nắng đi cho màu đừng nhạt mất&#xA;Tôi muốn buộc nắng lại cho hương đừng bay đi&quot;&#xA;Là 2 câu thơ của Xuân Quỳnh ?" fact="Xuân Diệu">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Nước đóng băng ở nhiệt độ 32 độ F ?" fact="32 độ F = 0 độ C">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Chim là loài động vật duy nhất trên trái đất biết bay hiện nay ?" fact="Ngoài ra còn có côn trùng như chuồn chuồn bươm bướm...">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Người da đỏ sống ở Châu Phi ?" fact="Người da đỏ là dân bản địa ở Châu Mỹ">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Mỗi người chỉ có một ngày sinh nhật ?" fact="Ngày sinh chỉ có 1 nhưng sinh nhật thì có thể nhiều.">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="A đi 5 km/giờ B đi nhanh gấp đôi A. Vậy tốc độ của B là 10000 m/giờ ?" fact="10000 m = 10 km">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Thủ đô của Mỹ là NewYork ?" fact="Washington">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="5*3+0/3-5*3*0/3 = 0" fact="5*3+0/3-5*3*0/3 = 15">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Seagame năm 2003 được tổ chức ở Việt Nam" fact="Seagame tổ chức các năm chẵn">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Nước Nga thuộc châu Âu ?">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Chùa Một Cột xây dựng ở thế kỷ 11">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Số 0 không có căn bậc 2 số học " fact="Căn 0 = 0">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Văn Cao là tác giả của Lão Hạc ?" fact="Nam Cao">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Nhóm máu chuyên cho là AB ?" fact="O chuyên cho AB chuyên nhận">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Cầu thủ ghi nhiều bàn thắng nhất tại World Cup là Ronaldo của Brazil" fact="Klose của đội tuyển Đức">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="1704 Chia hết cho 6 ?" fact="Vừa chia hết cho 3 vừa chia hết cho 2 nên 1704 chia hết cho 6">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Ngày 3 tháng 10 âm lịch là ngày giỗ tổ Hùng Vương ?" fact="Ngày 10 tháng 3 âm lịch">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Phong Nha Kẻ Bàng thuộc Quảng Trị ?" fact="Quảng Bình">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Bà chúa thơ Nôm là Bà Huyện Thanh Quan ?" fact="Hồ Xuân Hương">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="2H+O -&gt; H2O đúng hay sai ?" fact="2H2 + O2 -&gt; 2H2O">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Bức họa Monalisa là của Picasso ?" fact="Leonardo Da Vinci">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Trường Sa và Hoàng Sa là của Việt Nam ?" fact="Chắc chắn rồi !">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Isaac Newton là người đã nêu ra &quot;Thuyết tương đối&quot;" fact="Albert Einstein">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Việt Nam có chung biên giới trên đất liền với 3 nước" fact="Trung Quốc, Lào, Campuchia">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Tết Trung Thu là ngày 15 tháng 8 Dương lịch" fact="15 - 8 Âm lịch">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Số 0 là số nguyên dương nhỏ nhất ?" fact="Số 0 là một số đặc biệt và không phải là số âm cũng không phải dương">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Số 2 là số nguyên tố chẵn duy nhất ?">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Dustin Moskovitz là người đồng sáng lập Facebook ?">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Quang Trung và Nguyễn Huệ là hai anh em ruột ?" fact="Nguyễn Huệ là tên gọi khác của Quang Trung">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Tất cả các số lớn hơn 0 lũy thừa 0 đều bằng 1">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Hồng Hà là một dòng sông chảy qua Hà Nội " fact="Hồng Hà chính là sông Hồng">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Cá voi là động vật có vú và nuôi con bằng sữa">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Mặt trời là ngôi sao gần Trái Đất nhất">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Việt Nam gia nhập WTO năm 2005" fact="2006">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="10 tạ bằng 100 yến ?" fact=" ">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Tiền Giang nằm sát với Bắc Giang" fact="Bắc Giang ở Bắc Bộ và Tiền Giang ở Nam Bộ">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Tết Đoan Ngọ là ngày 10 tháng 5 Âm lịch" fact="Ngày 5 tháng 5 Âm lịch">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Tết trung thu là ngày 15 tháng 8 Âm lịch">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Trái đất có hình cầu nhưng dẹt hai đầu ?" fact="Dẹt 2 đầu vì lực ly tâm">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Tác giả của Doremon là Hiroshi Fujimoto ?">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Gấu túi không bao giờ uống nước ?" fact="Thỉnh thoảng nó vẫn uống. (Rất ít chứ không phải không bao giờ)">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Bác Hồ ra đi tìm đường cứu nước năm 1911">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Sahara là nơi khô cằn nhất thế giới ?" fact="Sa mạc Atacama">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Kiến không bao giờ ngủ" fact="Chúng thay nhau ngủ">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Ấn Độ là nước đông dân nhất thế giới ?" fact="Trung Quốc">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Sài Gòn được mệnh danh là Hòn Ngọc Viễn Đông">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Mối uống nước bằng mông" fact=" ">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Định luật 3 Newton không phải do Newton tìm ra" fact="Chắc chắn là sai rồi">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Thăng hoa là vật chất từ thể rắn chuyển qua thể khí mà không cần qua thể lỏng">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Sony là hãng điện tử nổi tiếng của Hàn Quốc" fact="Nhật Bản">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Bãi biển Cửa Lò thuộc địa phận tỉnh Hà Tĩnh" fact="Nghệ An">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Tố Như là tên gọi khác của Nguyễn Du">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="1 Inch = 2.54 cm">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Quốc Ca Việt Nam là bài hát Tiến Quân Ca">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Chủ nghĩa phát xít bắt đầu từ nước Ý">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Đàn Ghita có tất cả 6 dây">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Nước biển đen có nồng độ muối cao nhất thế giới" fact="Biên chết">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Vàng có độ dẫn điện tốt hơn đồng">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Tất cả các số chia không đều bằng không" fact="Không thể chia cho không">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Tốc độ ánh sáng là tốc độ nhanh nhất mà con người từng biết">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Bò tót sợ các màu đỏ, cam, vàng" fact="Bò tót mù màu">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Axit H2SO4 đặc nguội không thể tác dụng được với Nhôm">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Sao hỏa là ngôi sao có rất nhiều lửa">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Việt Nam đến nay vẫn chưa có vệ tinh nhân tạo nào" fact="Việt Nam đã có vinasat 1">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Ga tàu hỏa Diêu Trì thuộc tỉnh Bình Định">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Theo sinh học người là động vật ăn tạp" fact="Vừa ăn thịt vừa ăn thực vật nên được gọi là ăn tạp">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Neil Armstrong là người đầu tiên đặt chân lên sao Hỏa" fact="Chưa có ai lên đây hết">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Châu Úc chỉ có duy nhất một nước là nước Úc" fact="nước Úc và New Zealand, ngoài ra có một số nước nhỏ khác">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Michael Phelps đã dành 4 tấm huy chương vàng bạc tại cùng 1 kì thế vận hội ?">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="2 dặm = 3.2 km" fact="1 dặm = 1.6 km">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Tại Trung Quốc, số 7 được coi là may mắn">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Con cua có 8 cẳng 2 càng 1 mai hai mắt">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Đơn vị tiền tệ thế giới là vàng">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Diện tích tam giác vuông bằng tích 2 cạnh gốc vuông nhân sin góc xen giữa chia đôi" fact="sin 90 = 1">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Đỉnh núi cao nhất thế giới là phanxipang" fact="Everet">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Crom là vật liệu kim loại cứng nhất">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Nga là đất nước lớn nhất châu Á" fact="Nga thuộc địa phận hành chính châu Âu">
+			<Correct>0</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Vận tốc vũ trụ cấp 1 là 7.9 km/s">
+			<Correct>1</Correct>
+			<difficulty>Easy</difficulty>
+		</Quiz>
+		<Quiz question="Nước chỉ sôi ở nhiệt độ duy nhất là 100 độ C" fact="Tùy áp suất">
+			<Correct>0</Correct>
+		</Quiz>
+		<Quiz question="Tôn Ngộ Không có tới 72 phép thần thông">
+			<Correct>1</Correct>
+		</Quiz>
+		<Quiz question="Hộp đen của máy bay được sơn màu đen" fact="Thực tế hộp đen được sơn màu cam">
+			<Correct>0</Correct>
+		</Quiz>
+		<Quiz question="Sông Gianh ở vị trí Vĩ Tuyến 17" fact="Sông Bến Hải">
+			<Correct>0</Correct>
+		</Quiz>
+		<Quiz question="Dơi là động vật có vú duy nhất biết bay">
+			<Correct>1</Correct>
+		</Quiz>
+		<Quiz question="Linh cẩu là tên gọi khác của hải cẩu" fact="2 con khác nhau hoàn toàn">
+			<Correct>0</Correct>
+		</Quiz>
+		<Quiz question="Năm 1994 là năm Giáp Tuất">
+			<Correct>1</Correct>
+		</Quiz>
+		<Quiz question="&quot;Không có gì là không thể&quot; là câu nói nổi tiếng của Napoleon Bonaparte">
+			<Correct>1</Correct>
+		</Quiz>
+		<Quiz question="Kim cương và than chì có cùng công thức hóa học">
+			<Correct>1</Correct>
+		</Quiz>
+		<Quiz question="Tượng &quot;nữ thần tự do&quot; được làm ra bởi người Pháp">
+			<Correct>1</Correct>
+		</Quiz>
+	</Quizes>
+</QuizCollection>
